@@ -1,0 +1,663 @@
+#mdDashTit{
+    margin-top:4vh;
+    font-size:28px
+}
+#mdtittempDash{
+    margin-left:1vw ;font-size: 20px
+}
+#gap550dash{
+    gap: 1vw;
+}
+#faixa2{
+     gap:1vw
+}
+#faixa1{
+    gap: 1vw;
+}
+.mdDashinfodiv{
+    width: 19.25vw; height: 12vh;border-radius: 10px; padding-top:2vh
+}
+#tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 4vw; height: 3vh }
+.spaninfodash{
+     font-size: 20px
+}
+.navbarinfoDash{
+    height: 4vh;
+}
+.restinfoDash{
+    height: 8vh;
+}
+#btnMetas{
+    font-size:12px; margin-right:1vw; border-radius: 10px;width: 3.5vw; height: 3.5vh;
+}
+#TituloMdDash{
+    font-size: 26px;
+}
+#TituloMdDash2{
+    font-size: 22px;
+}
+.Graficos{
+    width: 39.5vw; height: 28vh
+}
+.Graficosdiv1{
+    width: 38vw; height: 28vh;border-radius: 10px; 
+}
+.Graficosdiv2{
+    width: 36vw; height: 28vh
+}
+#graficSelect{
+    width: 4vw;  margin-top:10px;height: 35px
+}
+#selectgraficodiv{
+    height: 30vh;
+    margin-left: -150px;
+}
+#GraficoGrande{
+    width: 80vw;
+}
+@media screen and (max-width:1500px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 22px
+    }
+    #faixa2{
+         gap:1vw
+    }
+    .mdDashinfodiv{
+        width: 19.25vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 5vw; height: 3vh }
+    .spaninfodash{
+         font-size: 21px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:12px; margin-right:1vw; border-radius: 10px;width: 4vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+    #graficSelect{
+        width: 4vw;  margin-top:10px;height: 35px
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 80vw;
+    }
+}
+@media screen and (max-width:1300px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 21px
+    }
+    #faixa2{
+         gap:1vw
+    }
+    .mdDashinfodiv{
+        width: 19.25vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 5.5vw; height: 3vh }
+    .spaninfodash{
+         font-size: 20px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:12px; margin-right:1vw; border-radius: 10px;width: 4.5vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 80vw;
+    }
+}
+@media screen and (max-width:1100px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 17px
+    }
+    #faixa2{
+         gap:1vw
+    }
+    .mdDashinfodiv{
+        width: 19.25vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 6.5vw; height: 3vh }
+    .spaninfodash{
+         font-size: 19px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:12px; margin-right:1vw; border-radius: 10px;width: 5vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 80vw;
+    }
+}
+@media screen and (max-width:900px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 16px
+    }
+    #faixa2{
+         gap:1vw
+    }
+    .mdDashinfodiv{
+        width: 19.25vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 7.5vw; height: 3vh }
+    .spaninfodash{
+         font-size: 20px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:12px; margin-right:1vw; border-radius: 10px;width: 6vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 80vw;
+    }
+}
+@media screen and (max-width:800px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 17px
+    }
+    #faixa2{
+         gap:1vw
+    }
+    .mdDashinfodiv{
+        width: 20vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 8.5vw; height: 3vh }
+    .spaninfodash{
+         font-size: 15px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:12px; margin-right:1vw; border-radius: 10px;width: 6.5vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 41.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 38vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 36vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 84vw;
+    }
+}
+@media screen and (max-width:760px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 16px
+    }
+    #faixa2{
+         gap:1vw
+    }
+    .mdDashinfodiv{
+        width: 20vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 9vw; height: 3vh }
+    .spaninfodash{
+         font-size: 16px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:12px; margin-right:1vw; border-radius: 10px;width: 7vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 41.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 38vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 36vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 84vw;
+    }
+}
+@media screen and (max-width:710px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 15px
+    }
+    #faixa2{
+         gap:1vw
+    }
+    .mdDashinfodiv{
+        width: 20vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 9vw; height: 3vh; font-size: 12px; }
+    .spaninfodash{
+         font-size: 15px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:12px; margin-right:1vw; border-radius: 10px;width: 7vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 41.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 38vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 36vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 84vw;
+    }
+}
+@media screen and (max-width:650px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #faixa1{
+        gap:2vw
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 15px
+    }
+    #faixa2{
+         gap:2vw
+    }
+    .mdDashinfodiv{
+        width: 20.5vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1vw; border-radius: 10px;width: 9vw; height: 3vh; font-size: 12px; }
+    .spaninfodash{
+         font-size: 14px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:11px; margin-right:1vw; border-radius: 10px;width: 7vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 42.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 39vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 37vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 87vw;
+    }
+}
+@media screen and (max-width:600px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #faixa1{
+        gap:2vw
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 12px
+    }
+    #faixa2{
+         gap:2vw
+    }
+    .mdDashinfodiv{
+        width: 20.5vw; height: 12vh;border-radius: 10px; padding-top:2vh
+    }
+    #tempo{background-color: #D3D3D3; margin-right:0.5vw; border-radius: 10px;width: 9.5vw; height: 3vh; font-size: 11px; }
+    .spaninfodash{
+         font-size: 13px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:11px; margin-right:0.5vw; border-radius: 10px;width: 8vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 42.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 39vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 37vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 87vw;
+    }
+}
+@media screen and (max-width:550px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #faixa1{
+        gap:2vw
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 12px
+    }
+    #faixa2{
+         gap:2vw
+    }
+    .mdDashinfodiv{
+        width: 42.5vw; 
+    }
+    #gap550dash{
+        gap: 2vw;
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1.5vw; border-radius: 10px;width: 16vw; height: 3vh; font-size: 11px; }
+    .spaninfodash{
+         font-size: 15px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:11px; margin-right:1.5vw; border-radius: 10px;width: 12vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 42.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 39vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 37vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 87vw;
+    }
+}
+
+@media screen and (max-width:400px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #faixa1{
+        gap:2vw
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 10px
+    }
+    #faixa2{
+         gap:2vw
+    }
+    .mdDashinfodiv{
+        width: 42.5vw; 
+    }
+    #gap550dash{
+        gap: 2vw;
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1.5vw; border-radius: 10px;width: 16vw; height: 3vh; font-size: 11px; }
+    .spaninfodash{
+         font-size: 15px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:11px; margin-right:1.5vw; border-radius: 10px;width: 13vw; 
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 42.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 39vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 37vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 87vw;
+    }
+}
+@media screen and (max-width:900px) {
+    #mdDashTit{
+        margin-top:4vh;
+        font-size:28px
+    }
+    #faixa1{
+        gap:2vw
+    }
+    #mdtittempDash{
+        margin-left:1vw ;font-size: 10px
+    }
+    #faixa2{
+         gap:2vw
+    }
+    .mdDashinfodiv{
+        width: 42.5vw; 
+    }
+    #gap550dash{
+        gap: 2vw;
+    }
+    #tempo{background-color: #D3D3D3; margin-right:1.5vw; border-radius: 10px;width: 16vw; height: 3vh; font-size: 11px; }
+    .spaninfodash{
+         font-size: 15px
+    }
+    .navbarinfoDash{
+        height: 4vh;
+    }
+    .restinfoDash{
+        height: 8vh;
+    }
+    #btnMetas{
+        font-size:11px; margin-right:1.5vw; border-radius: 10px;width: 13vw; height: 4vh
+    }
+    #TituloMdDash{
+        font-size: 26px;
+    }
+    #TituloMdDash2{
+        font-size: 22px;
+    }
+
+    .Graficos{
+        width: 42.5vw; height: 28vh
+    }
+    .Graficosdiv1{
+        width: 39vw; height: 28vh;border-radius: 10px; 
+    }
+    .Graficosdiv2{
+        width: 37vw; height: 28vh
+    }
+    #selectgraficodiv{
+        height: 30vh;
+        margin-left: -150px;
+    }
+    #GraficoGrande{
+        width: 87vw;
+    }
+}
